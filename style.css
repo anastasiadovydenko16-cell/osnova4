@@ -1,0 +1,13 @@
+h1 {color:red;}
+.nav-list li:first-child a {color: green;}
+.nav-list li:nth-child(2) a {color: blue;}
+.nav-list li:last-child a {color: yellow;}
+#first-post {color: orange}
+.post {color: purple;}
+[class="widget"] {color: pink;}
+.color-list li:first-child {color: grey;}
+.color-list li:nth-child(2) {color: brown;}
+.color-list li:last-child {color: black;}
+[class="widget important-widget"] {color: darkred;}
+::placeholder {color: white;}
+button {color: black;}
